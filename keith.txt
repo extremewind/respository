@@ -1,3 +1,4 @@
 Git is a version control system.
-Git is free software.
+Git is free.
 这是我修改后的内容
+我又多加了一行，而且删掉了第二行的一个单词
